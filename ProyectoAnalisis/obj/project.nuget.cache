@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lo3r/dSQo012vGcKmKwb4nM9/XTEg57xVQlMaEvs0f3cmfn7x1v5xIMbr4QrSBrwJ8rYOgwZSax0mW1qaCyBHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nahuel\\Downloads\\ProyectoAnalisis\\ProyectoAnalisis\\ProyectoAnalisis\\ProyectoAnalisis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nahuel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Nahuel\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Nahuel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Nahuel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

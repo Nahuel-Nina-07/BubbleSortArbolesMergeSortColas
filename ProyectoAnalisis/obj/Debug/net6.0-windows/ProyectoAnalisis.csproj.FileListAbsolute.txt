@@ -1,0 +1,99 @@
+F:\AnalisisAlgoritmos\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0-windows\ProyectoAnalisis.exe
+F:\AnalisisAlgoritmos\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0-windows\ProyectoAnalisis.deps.json
+F:\AnalisisAlgoritmos\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0-windows\ProyectoAnalisis.runtimeconfig.json
+F:\AnalisisAlgoritmos\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0-windows\ProyectoAnalisis.dll
+F:\AnalisisAlgoritmos\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0-windows\ProyectoAnalisis.pdb
+F:\AnalisisAlgoritmos\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.csproj.AssemblyReference.cache
+F:\AnalisisAlgoritmos\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form2.resources
+F:\AnalisisAlgoritmos\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form3.resources
+F:\AnalisisAlgoritmos\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form4.resources
+F:\AnalisisAlgoritmos\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form5.resources
+F:\AnalisisAlgoritmos\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form6.resources
+F:\AnalisisAlgoritmos\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form8.resources
+F:\AnalisisAlgoritmos\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form9.resources
+F:\AnalisisAlgoritmos\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.FormMain.resources
+F:\AnalisisAlgoritmos\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.csproj.GenerateResource.cache
+F:\AnalisisAlgoritmos\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.GeneratedMSBuildEditorConfig.editorconfig
+F:\AnalisisAlgoritmos\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.AssemblyInfoInputs.cache
+F:\AnalisisAlgoritmos\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.AssemblyInfo.cs
+F:\AnalisisAlgoritmos\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.csproj.CoreCompileInputs.cache
+F:\AnalisisAlgoritmos\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.dll
+F:\AnalisisAlgoritmos\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\refint\ProyectoAnalisis.dll
+F:\AnalisisAlgoritmos\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.pdb
+F:\AnalisisAlgoritmos\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.genruntimeconfig.cache
+F:\AnalisisAlgoritmos\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ref\ProyectoAnalisis.dll
+F:\AnalisisAlgoritmos\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form7.resources
+G:\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0-windows\ProyectoAnalisis.exe
+G:\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0-windows\ProyectoAnalisis.deps.json
+G:\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0-windows\ProyectoAnalisis.runtimeconfig.json
+G:\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0-windows\ProyectoAnalisis.dll
+G:\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0-windows\ProyectoAnalisis.pdb
+G:\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.csproj.AssemblyReference.cache
+G:\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form2.resources
+G:\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form3.resources
+G:\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form4.resources
+G:\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form5.resources
+G:\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form6.resources
+G:\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form7.resources
+G:\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form8.resources
+G:\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form9.resources
+G:\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.FormMain.resources
+G:\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.csproj.GenerateResource.cache
+G:\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.AssemblyInfoInputs.cache
+G:\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.AssemblyInfo.cs
+G:\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.csproj.CoreCompileInputs.cache
+G:\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.dll
+G:\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\refint\ProyectoAnalisis.dll
+G:\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.pdb
+G:\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.genruntimeconfig.cache
+G:\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ref\ProyectoAnalisis.dll
+P:\Examen (1)\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0-windows\ProyectoAnalisis.exe
+P:\Examen (1)\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0-windows\ProyectoAnalisis.deps.json
+P:\Examen (1)\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0-windows\ProyectoAnalisis.runtimeconfig.json
+P:\Examen (1)\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0-windows\ProyectoAnalisis.dll
+P:\Examen (1)\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0-windows\ProyectoAnalisis.pdb
+P:\Examen (1)\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.csproj.AssemblyReference.cache
+P:\Examen (1)\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form2.resources
+P:\Examen (1)\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form3.resources
+P:\Examen (1)\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form4.resources
+P:\Examen (1)\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form5.resources
+P:\Examen (1)\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form6.resources
+P:\Examen (1)\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form7.resources
+P:\Examen (1)\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form8.resources
+P:\Examen (1)\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form9.resources
+P:\Examen (1)\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.FormMain.resources
+P:\Examen (1)\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.csproj.GenerateResource.cache
+P:\Examen (1)\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.GeneratedMSBuildEditorConfig.editorconfig
+P:\Examen (1)\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.AssemblyInfoInputs.cache
+P:\Examen (1)\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.AssemblyInfo.cs
+P:\Examen (1)\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.csproj.CoreCompileInputs.cache
+P:\Examen (1)\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.dll
+P:\Examen (1)\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\refint\ProyectoAnalisis.dll
+P:\Examen (1)\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.pdb
+P:\Examen (1)\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.genruntimeconfig.cache
+P:\Examen (1)\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ref\ProyectoAnalisis.dll
+C:\Users\Nahuel\Downloads\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0-windows\ProyectoAnalisis.exe
+C:\Users\Nahuel\Downloads\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0-windows\ProyectoAnalisis.deps.json
+C:\Users\Nahuel\Downloads\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0-windows\ProyectoAnalisis.runtimeconfig.json
+C:\Users\Nahuel\Downloads\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0-windows\ProyectoAnalisis.dll
+C:\Users\Nahuel\Downloads\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0-windows\ProyectoAnalisis.pdb
+C:\Users\Nahuel\Downloads\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form2.resources
+C:\Users\Nahuel\Downloads\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form3.resources
+C:\Users\Nahuel\Downloads\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form4.resources
+C:\Users\Nahuel\Downloads\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form5.resources
+C:\Users\Nahuel\Downloads\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form6.resources
+C:\Users\Nahuel\Downloads\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form7.resources
+C:\Users\Nahuel\Downloads\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form8.resources
+C:\Users\Nahuel\Downloads\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.Form9.resources
+C:\Users\Nahuel\Downloads\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.FormMain.resources
+C:\Users\Nahuel\Downloads\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.csproj.GenerateResource.cache
+C:\Users\Nahuel\Downloads\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nahuel\Downloads\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.AssemblyInfoInputs.cache
+C:\Users\Nahuel\Downloads\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.AssemblyInfo.cs
+C:\Users\Nahuel\Downloads\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Downloads\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.dll
+C:\Users\Nahuel\Downloads\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\refint\ProyectoAnalisis.dll
+C:\Users\Nahuel\Downloads\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.pdb
+C:\Users\Nahuel\Downloads\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ProyectoAnalisis.genruntimeconfig.cache
+C:\Users\Nahuel\Downloads\ProyectoAnalisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0-windows\ref\ProyectoAnalisis.dll
